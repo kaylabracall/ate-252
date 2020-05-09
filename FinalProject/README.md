@@ -26,11 +26,11 @@ Source: [https://data.pa.gov/Public-Safety/Crash-Incident-Details-CY-1997-Curren
 Ultimately, the data does show that older drivers(ages 65 and older) are more likely to be involved in a fatal accident than drivers under the age of 65. The risk of fatality seems to increase with drivers age 75 and older.
 
 The three most "fatal" conditions to older drivers are:
-* *Unbelted* -
+* **Unbelted** -
 Approximately 40% of fatalities involving an older driver also involved someone not wearing a seatbelt. This is unsurprising, as not wearing a seatbelt increases the risk of fatality for any driver or passenger, regardless of age.  
-* *Wet Road Conditions* -
+* **Wet Road Conditions** -
 Approximately 13% of fatalities with an older driver involved wet road conditions. This was the most surprising finding to me, as I had expected that snow slush or icy roads would be more fatal than wet road conditions. 
-* *Drinking Driver* -
+* **Drinking Driver** -
 Over 9% of fatal crashes involving an older driver also involve a drinking driver. Again, this is not an unusual finding, as alcohol impairs any driver. 
 
 ## Relevance of Findings
